@@ -1,16 +1,63 @@
-## Hi there 👋
+# Olá! Eu sou o Victor Jenckel
 
-<!--
-**VictorJenckel/VictorJenckel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Engenheiro de Computação em formação, com mais de 15 anos de experiência em automação industrial, elétrica e TI. Atualmente estou em transição para a área de dados, integrando minha bagagem da indústria com Ciência de Dados, Engenharia de Dados e Machine Learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mim
+
+- 🇧🇷 Moro em Taubaté-SP, Brasil
+- 🇩🇪 Tenho cidadania alemã
+- ⚙️ Atuo com automação de máquinas industriais (especialista em Siemens PLCs)
+- 🎓 Estudando Engenharia de Computação, Ciência de Dados e Data Engineering
+- 🚀 Apaixonado por Python, SQL, ETL, IoT industrial e Machine Learning
+- 🌍 Meu objetivo é aplicar inteligência de dados para otimização de processos industriais e manutenção preditiva
+
+---
+
+### Tecnologias e Ferramentas
+
+**Linguagens e Dados:**
+- Python (Pandas, NumPy, scikit-learn)
+- SQL (PostgreSQL, MySQL, SQLite)
+- PySpark
+
+**Engenharia de Dados:**
+- Apache Airflow
+- ETL em Python
+- Data Lakes na AWS e na Azure (em construção)
+
+**DevOps e Monitoramento (em aprendizado):**
+- Prometheus & Grafana
+- Docker (básico)
+
+**Automação Industrial:**
+- Siemens TIA Portal, S7-300/S7-1200/s7-1500
+- Comunicação com CLPs via Python (snap7, OPC-UA)
+- Leitura de dados industriais via TXT, CSV, Modbus
+
+---
+
+### Projetos em Destaque
+
+- **[DataEng](https://github.com/VictorJenckel/DataEng)**: Estudo e implementação de pipelines de dados com foco em ETL, automação e integração de dados industriais
+- **[OBD2 Anomaly Detection](https://github.com/VictorJenckel)** *(em breve)*: Modelo de ML embarcado para prever falhas em veículos com leitura via OBD2
+- **[Confeitaria Analytics](https://github.com/VictorJenckel)** *(em breve)*: Controle financeiro e dashboard em Python para pequeno negócio familiar
+
+---
+
+### Estou aprendendo...
+
+- Grafana e Prometheus para monitoramento de pipelines
+- Construção de APIs para integração de sistemas industriais
+- Machine Learning aplicado a séries temporais e dados de sensores
+- IIOT industrial internet of things
+
+---
+
+### Contato
+
+- [LinkedIn](https://www.linkedin.com/in/victorjenckel)
+- Email: victorjenckel@gmail.com
+
+Se você trabalha com dados, automação ou Indústria 4.0, bora trocar uma ideia!
