@@ -40,9 +40,7 @@ Sou Engenheiro de Computação em formação, com mais de 15 anos de experiênci
 
 ### Projetos em Destaque
 
-- **[DataEng](https://github.com/VictorJenckel/DataEng)**: Estudo e implementação de pipelines de dados com foco em ETL, automação e integração de dados industriais
-- **[OBD2 Anomaly Detection](https://github.com/VictorJenckel)** *(em breve)*: Modelo de ML embarcado para prever falhas em veículos com leitura via OBD2
-- **[Confeitaria Analytics](https://github.com/VictorJenckel)** *(em breve)*: Controle financeiro e dashboard em Python para pequeno negócio familiar
+- **[Local_cluster_industrial_data](https://github.com/VictorJenckel/local_cluster_industrial_data)**: mini datalake com implementação de pipelines de dados com foco em ETL, automação e integração de dados industriais
 
 ---
 
