@@ -1,6 +1,6 @@
 # Olá! Eu sou o Victor Jenckel
 
-Sou Engenheiro de Computação em formação, com mais de 15 anos de experiência em automação industrial, elétrica e TI. Atualmente estou em transição para a área de dados, integrando minha bagagem da indústria com Ciência de Dados, Engenharia de Dados e Machine Learning.
+Sou Engenheiro de Computação em formação, com mais de 15 anos de experiência em automação industrial, elétrica e TI. Atualmente estou em transição para a área de dados, integrando minha bagagem da indústria com Engenharia de Dados, Machine Learning e Inteligencia Artificial.
 
 ---
 
@@ -9,8 +9,8 @@ Sou Engenheiro de Computação em formação, com mais de 15 anos de experiênci
 - 🇧🇷 Moro em Taubaté-SP, Brasil
 - 🇩🇪 Tenho cidadania alemã
 - ⚙️ Atuo com automação de máquinas industriais (especialista em Siemens PLCs)
-- 🎓 Estudando Engenharia de Computação, Ciência de Dados e Data Engineering
-- 🚀 Apaixonado por Python, SQL, ETL, IoT industrial e Machine Learning
+- 🎓 Estudando Engenharia de Computação, Data Engineering industrial e integração OT/IT
+- 🚀 Apaixonado por Python e RUST, SQL, ETL, IoT industrial e Machine Learning
 - 🌍 Meu objetivo é aplicar inteligência de dados para otimização de processos industriais e manutenção preditiva
 
 ---
@@ -18,9 +18,10 @@ Sou Engenheiro de Computação em formação, com mais de 15 anos de experiênci
 ### Tecnologias e Ferramentas
 
 **Linguagens e Dados:**
-- Python (Pandas, NumPy, scikit-learn)
+- Python (Pandas)
 - SQL (PostgreSQL, MySQL, SQLite)
 - PySpark
+- RUST
 
 **Engenharia de Dados:**
 - Apache Airflow
@@ -29,10 +30,10 @@ Sou Engenheiro de Computação em formação, com mais de 15 anos de experiênci
 
 **DevOps e Monitoramento (em aprendizado):**
 - Prometheus & Grafana
-- Docker (básico)
+- Docker e docker compose
 
 **Automação Industrial:**
-- Siemens TIA Portal, S7-300/S7-1200/s7-1500
+- Siemens TIA Portal, S7-400/S7-1200/s7-1500
 - Comunicação com CLPs via Python (snap7, OPC-UA)
 - Leitura de dados industriais via TXT, CSV, Modbus
 
@@ -41,7 +42,7 @@ Sou Engenheiro de Computação em formação, com mais de 15 anos de experiênci
 ### Projetos em Destaque
 
 - **[Local_cluster_industrial_data](https://github.com/VictorJenckel/local_cluster_industrial_data)**: mini datalake com implementação de pipelines de dados com foco em ETL, automação e integração de dados industriais
-
+  
 ---
 
 ### Estou aprendendo...
