@@ -18,7 +18,7 @@ Sou Engenheiro de Computação em formação, com mais de 15 anos de experiênci
 ### Tecnologias e Ferramentas
 
 **Linguagens e Dados:**
-- Python (Pandas)
+- Python (Pandas, opencv, Numpy)
 - SQL (PostgreSQL, MySQL, SQLite)
 - PySpark
 - RUST
