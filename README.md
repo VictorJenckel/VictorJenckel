@@ -1,62 +1,76 @@
-# Olá! Eu sou o Victor Jenckel
+# Victor Jenckel
 
-Sou Engenheiro de Computação em formação, com mais de 15 anos de experiência em automação industrial, elétrica e TI. Atualmente estou em transição para a área de dados, integrando minha bagagem da indústria com Engenharia de Dados, Machine Learning e Inteligencia Artificial.
-
----
-
-### Sobre mim
-
-- 🇧🇷 Moro em Taubaté-SP, Brasil
-- 🇩🇪 Tenho cidadania alemã
-- ⚙️ Atuo com automação de máquinas industriais (especialista em Siemens PLCs)
-- 🎓 Estudando Engenharia de Computação, Data Engineering industrial e integração OT/IT
-- 🚀 Apaixonado por Python e RUST, SQL, ETL, IoT industrial e Machine Learning
-- 🌍 Meu objetivo é aplicar inteligência de dados para otimização de processos industriais e manutenção preditiva
+**Industrial Data Engineer · OT/IT Integration Specialist**  
+Turning physical processes into digital intelligence — from sensor to insight.
 
 ---
 
-### Tecnologias e Ferramentas
+I bridge the gap between the factory floor and the data layer.
 
-**Linguagens e Dados:**
-- Python (Pandas, opencv, Numpy)
-- SQL (PostgreSQL, MySQL, SQLite)
-- PySpark
-- RUST
+With 15+ years in industrial automation and instrumentation —
+working hands-on with PLCs, field instruments, control loops,
+and electrical systems — I now apply that physical-world knowledge
+to build data infrastructure that makes industrial processes
+observable, predictable, and optimizable.
 
-**Engenharia de Dados:**
-- Apache Airflow
-- ETL em Python
-- Data Lakes na AWS e na Azure (em construção)
+My work lives at the intersection of OT and IT: where a temperature
+transmitter's 4–20 mA signal becomes a time-series in PostgreSQL,
+where a PLC's OPC UA node becomes a pipeline trigger in Airflow,
+and where a glass ribbon's drift becomes an anomaly in a
+computer vision model.
 
-**DevOps e Monitoramento (em aprendizado):**
-- Prometheus & Grafana
-- Docker e docker compose
-
-**Automação Industrial:**
-- Siemens TIA Portal, S7-400/S7-1200/s7-1500
-- Comunicação com CLPs via Python (snap7, OPC-UA)
-- Leitura de dados industriais via TXT, CSV, Modbus
+Currently specializing in **Industrial Digital Twins** —
+building the digital counterpart of real physical assets
+using AAS (Asset Administration Shell), OPC UA Information
+Models, and live data pipelines.
 
 ---
 
-### Projetos em Destaque
+### What I work with
 
-- **[Local_cluster_industrial_data](https://github.com/VictorJenckel/local_cluster_industrial_data)**: mini datalake com implementação de pipelines de dados com foco em ETL, automação e integração de dados industriais
-  
+**Industrial layer**
+- Siemens TIA Portal — S7-400 / S7-1200 / S7-1500
+- OPC UA, Modbus, PROFINET
+- Field instrumentation: transmitters, encoders, vision systems
+- PLC communication via Python (snap7, opcua-asyncio)
+
+**Data layer**
+- Python — Pandas, NumPy, OpenCV, scikit-learn
+- Apache Airflow — ETL pipelines in production
+- PostgreSQL, SQLite
+- Docker & Docker Compose
+
+**In active development**
+- Asset Administration Shell (AAS / IDTA standards)
+- Eclipse Ditto — Digital Twin state management
+- Rust — edge data acquisition at 500 Hz
+- Prometheus & Grafana — OT monitoring stacks
+- AWS & Azure — industrial data lake patterns
+
 ---
 
-### Estou aprendendo...
+### Featured project
 
-- Grafana e Prometheus para monitoramento de pipelines
-- Construção de APIs para integração de sistemas industriais
-- Machine Learning aplicado a séries temporais e dados de sensores
-- IIOT industrial internet of things
+**[Industrial Data Lake — Glass Inspection Lines](https://github.com/VictorJenckel/local_cluster_industrial_data)**  
+Production ETL system ingesting inspection data from Eagle Vision
+machines (SL2, LRA1, FSP lines) into PostgreSQL via Apache Airflow.
+Includes deduplication logic, audit DAGs, quarterly backup pipelines,
+and OPC UA integration. Running in a real flat glass manufacturing
+facility in Brazil.
 
 ---
 
-### Contato
+### Where I'm heading
 
-- [LinkedIn](https://www.linkedin.com/in/victorjenckel)
-- Email: victorjenckel@gmail.com
+I'm building toward a specialization in **Industrial Digital Twins** —
+creating living digital representations of physical assets that reflect
+real-world state in real time, enable predictive maintenance, and
+support process optimization at the OT/IT boundary.
 
-Se você trabalha com dados, automação ou Indústria 4.0, bora trocar uma ideia!
+Background: Computer Engineering (graduating 2026) · 🇧🇷 Brazil · 🇩🇪 German citizen  
+Open to remote collaboration with European industrial teams.
+
+---
+
+📧 victorjenckel@gmail.com  
+💼 [linkedin.com/in/victorjenckel](https://www.linkedin.com/in/victorjenckel)
